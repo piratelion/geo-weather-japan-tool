@@ -34,7 +34,7 @@ Example:
 
 ##download Japan's weather/holiday data
 
-Please download jholiday here:    http://www.h3.dion.ne.jp/~sakatsu/index.htm
+Please download jholiday here: http://www.h3.dion.ne.jp/~sakatsu/holiday_logic5.htm#Python
 
 This code help you to download Japan's weather/holiday data.
 
