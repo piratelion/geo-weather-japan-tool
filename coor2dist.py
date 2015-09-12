@@ -27,7 +27,7 @@ You can see the huge difference between WGS and TokyoDatum.
 =============================================================
 """
 import math  # radians, cos, sin, asin, sqrt
-df
+
 
 class locSys:
     """
